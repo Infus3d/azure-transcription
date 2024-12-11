@@ -1,0 +1,9 @@
+*.wav
+*_old.csv
+
+.venv/
+
+__pycache__/
+*.env
+*.log
+.DS_Store

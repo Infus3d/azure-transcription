@@ -1,0 +1,481 @@
+file,randomRater,transcription,autoTranscription,transcription(arpabet),autoTranscription(arpabet),MED
+word_wagon_322.wav,rater2,wægən,wæɡən ,W AE G AH0 N,W AE G AH0 N  ,0
+word_teeth_307.wav,rater2,tiθ,ti ,T IY TH,T IY  ,1
+word_baby_319.wav,rater3,bɛbi,beɪbi ,B EH B IY,B EY B IY  ,1
+phrase_juice_311.wav,rater3,dʒuʃ,jɛs ,JH UW SH,Y EH S  ,3
+phrase_wave_313.wav,rater2,wɪf,wiv ,W IH F,W IY V  ,2
+phrase_video_320.wav,rater3,vɪjoʊs,vɪdioʊz ,V IH Y OW S,V IH D IY OW Z  ,3
+phrase_TV_313.wav,rater3,tifi,tifi ,T IY F IY,T IY F IY  ,0
+phrase_tiger_recast_317.wav,rater2,tɑdoʊ,ʌðər ,T AA D OW,AH DH AH0 R  ,4
+phrase_dog_315.wav,rater2,dɑk,dɑk ,D AA K,D AA K  ,0
+phrase_house_recast_317.wav,rater1,haʊs,haʊs ,HH AW S,HH AW S  ,0
+phrase_chicken_325.wav,rater2,tʃɪkən,tʃɪk ɪn ,CH IH K AH0 N,CH IH K   IH N  ,3
+phrase_yellow_314.wav,rater2,jɛlo,jɛloʊ ,Y EH L O,Y EH L OW  ,1
+phrase_sock_312.wav,rater2,ʃɑk,sɛkənt ,SH AA K,S EH K AH0 N T  ,5
+word_water_303.wav,rater1,wɑdɚ,blædər ,W AA D ER0,B L AE D AH0 R  ,5
+word_jacket_316.wav,rater2,dʒækɪt,dʒækɪt ,JH AE K IH T,JH AE K IH T  ,0
+word_color_311.wav,rater1,kʌlɚ,kʌlər ,K AH L ER0,K AH L AH0 R  ,2
+word_chair_301.wav,rater3,tʃer,tʃɛr ,CH E R,CH EH R  ,1
+phrase_video_304.wav,rater3,vɪdhə,vɪdioʊ ,V IH D HH AH0,V IH D IY OW  ,2
+phrase_game_310.wav,rater3,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+phrase_ring_305.wav,rater3,ræŋ,rɪŋ ,R AE NG,R IH NG  ,1
+phrase_money_321.wav,rater1,mʌni,mʌni ,M AH N IY,M AH N IY  ,0
+word_moon_307.wav,rater2,mun,mun ,M UW N,M UW N  ,0
+phrase_wave_305.wav,rater1,weɪv,sleɪvz ,W EY V,S L EY V Z  ,3
+word_five_313.wav,rater2,faɪv,faɪv ,F AY V,F AY V  ,0
+word_kitchen_314.wav,rater2,kɪtʃən,kɪtʃən ,K IH CH AH0 N,K IH CH AH0 N  ,0
+word_sing_314.wav,rater2,tsɪŋ,sɪŋ ,T S IH NG,S IH NG  ,1
+word_magic_302.wav,rater3,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+word_magic_316.wav,rater1,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+phrase_apple_315.wav,rater3,næpʌ,æpəl ,N AE P AH,AE P AH0 L  ,3
+phrase_money_314.wav,rater3,mʌni,mʌni ,M AH N IY,M AH N IY  ,0
+word_pig_302.wav,rater2,pɪg,pɪɡ ,P IH G,P IH G  ,0
+phrase_thumb_322.wav,rater2,fʌm,frɑm ,F AH M,F R AA M  ,2
+phrase_juice_309.wav,rater2,dʒus,dʒus ,JH UW S,JH UW S  ,0
+phrase_table_311.wav,rater1,tebəl,teɪbəl ,T E B AH0 L,T EY B AH0 L  ,1
+phrase_cat_318.wav,rater2,kæt,kæts ,K AE T,K AE T S  ,1
+word_sing_301.wav,rater2,sɪŋk,sɪŋ ,S IH NG K,S IH NG  ,1
+phrase_potato_recast_311.wav,rater3,vʌtedo,pəteɪtoʊ ,V AH T E D O,P AH0 T EY T OW  ,5
+word_thumb_305.wav,rater3,dʌm,tɑm ,D AH M,T AA M  ,2
+word_beach_322.wav,rater3,bits,bits ,B IY T S,B IY T S  ,0
+phrase_knife_315.wav,rater2,naɪf,naɪs ,N AY F,N AY S  ,1
+phrase_lion_303.wav,rater3,waɪən,raɪt ,W AY AH0 N,R AY T  ,3
+phrase_chicken_recast_312.wav,rater2,tɪtən,sɪti ,T IH T AH0 N,S IH T IY  ,3
+word_video_recast_311.wav,rater2,vɪdioʊ,vɪdioʊ ,V IH D IY OW,V IH D IY OW  ,0
+phrase_tape_312.wav,rater2,tip,slipɪŋ ,T IY P,S L IY P IH NG  ,4
+phrase_fish_305.wav,rater2,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+word_yelling_323.wav,rater2,laʊwɪn,ɡioʊ əweɪ ,L AW W IH N,G IY OW   AH0 W EY  ,8
+phrase_juice_305.wav,rater2,dʒus,dʒus ,JH UW S,JH UW S  ,0
+phrase_yellow_315.wav,rater2,jɛloʊ,jɛloʊ ,Y EH L OW,Y EH L OW  ,0
+phrase_video_305.wav,rater3,vɪdio,vɪdioʊ ,V IH D IY O,V IH D IY OW  ,1
+word_hammer_321.wav,rater1,hæmɚ,hæmər ,HH AE M ER0,HH AE M AH0 R  ,2
+word_leaf_322.wav,rater3,lif,lif ,L IY F,L IY F  ,0
+phrase_web_318.wav,rater3,wæb,wɛb ,W AE B,W EH B  ,1
+phrase_ring_323.wav,rater2,wɪŋk,lɪŋk ,W IH NG K,L IH NG K  ,1
+phrase_potato_320.wav,rater3,pʌteɪdoʊ,pəteɪtoʊ ,P AH T EY D OW,P AH0 T EY T OW  ,2
+phrase_van_318.wav,rater2,væn,ðɛn ,V AE N,DH EH N  ,2
+word_foot_325.wav,rater3,fʊt,fʊt ,F UH T,F UH T  ,0
+word_apple_recast_317.wav,rater3,æpo,æpəl ,AE P O,AE P AH0 L  ,2
+word_color_recast_306.wav,rater2,kʌloʊ,həloʊ ,K AH L OW,HH AH0 L OW  ,2
+word_yell_recast_326.wav,rater2,jɛl,jɛə ,Y EH L,Y EH AH0  ,1
+word_game_recast_319.wav,rater3,geɪm,deɪ ,G EY M,D EY  ,2
+phrase_book_326.wav,rater2,bʊk,bʊk ,B UH K,B UH K  ,0
+word_singing_315.wav,rater3,sɪŋɪŋ,sɪŋɪŋ ,S IH NG IH NG,S IH NG IH NG  ,0
+phrase_web_324.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+word_baby_314.wav,rater3,bebi,beɪbi ,B E B IY,B EY B IY  ,1
+word_beach_recast_319.wav,rater3,bɪtʃ,bitʃ ,B IH CH,B IY CH  ,1
+phrase_puzzle_321.wav,rater3,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+word_web_304.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+word_toys_315.wav,rater3,tɔɪz,tɔɪz ,T OY Z,T OY Z  ,0
+phrase_puzzle_316.wav,rater3,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+phrase_hammer_323.wav,rater1,hæmbɚ,æmbər ,HH AE M B ER0,AE M B AH0 R  ,3
+word_moon_325.wav,rater3,mun,mun ,M UW N,M UW N  ,0
+word_nose_314.wav,rater3,noʊz,noʊz ,N OW Z,N OW Z  ,0
+word_baby_321.wav,rater2,beɪbi,beɪbi ,B EY B IY,B EY B IY  ,0
+phrase_tape_305.wav,rater3,tep,teɪp ,T E P,T EY P  ,1
+word_puzzle_recast_317.wav,rater3,pʌzðo,hɛðər ,P AH Z DH O,HH EH DH AH0 R  ,5
+word_baby_311.wav,rater3,bebi,beɪbi ,B E B IY,B EY B IY  ,1
+phrase_road_313.wav,rater3,vodə,bɔrd ,V O D AH0,B AO R D  ,4
+word_teeth_324.wav,rater3,diθ,tiθ ,D IY TH,T IY TH  ,1
+word_shape_recast_303.wav,rater2,ʃeɪp,ʃeɪk ,SH EY P,SH EY K  ,1
+word_video_recast_324.wav,rater3,vɪdioʊ,vɪdioʊ ,V IH D IY OW,V IH D IY OW  ,0
+phrase_mouth_320.wav,rater3,bæθ,ðæt ,B AE TH,DH AE T  ,2
+phrase_potato_312.wav,rater2,pəteto,bɪɡ iɡəl ,P AH0 T E T O,B IH G   IY G AH0 L  ,9
+phrase_TV_306.wav,rater3,tivi,tivi ,T IY V IY,T IY V IY  ,0
+word_wagon_323.wav,rater2,wægɪn,wæɡən ,W AE G IH N,W AE G AH0 N  ,1
+word_wagon_304.wav,rater3,wægən,wæɡən ,W AE G AH0 N,W AE G AH0 N  ,0
+word_baby_322.wav,rater3,beɪbi,beɪbi ,B EY B IY,B EY B IY  ,0
+phrase_hammer_304.wav,rater2,hæmə,ɛmə ,HH AE M AH0,EH M AH0  ,2
+phrase_toilet_302.wav,rater2,tɔɪlɪt,tɔɪlɪt ,T OY L IH T,T OY L IH T  ,0
+phrase_chicken_303.wav,rater3,tʃɪkɪn,tʃɪkən ,CH IH K IH N,CH IH K AH0 N  ,1
+phrase_book_314.wav,rater2,bʊk,bʊk ,B UH K,B UH K  ,0
+word_thumb_312.wav,rater3,θam,sæm ,TH A M,S AE M  ,2
+word_water_302.wav,rater3,waɾɛr,wɔtər ,W A ɾ EH R,W AO T AH0 R  ,3
+phrase_puzzle_308.wav,rater2,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+word_game_308.wav,rater3,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_kitchen_312.wav,rater3,kɪtθin,kitsi ,K IH T TH IY N,K IY T S IY  ,3
+word_magic_recast_307.wav,rater3,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+phrase_yellow_recasat_301.wav,rater1,jɛlo,jɛloʊ ,Y EH L O,Y EH L OW  ,1
+word_doll_302.wav,rater2,dɑl,dɑl ,D AA L,D AA L  ,0
+phrase_yellow_recast_325.wav,rater2,jɛlo,jɛloʊ ,Y EH L O,Y EH L OW  ,1
+phrase_toilet_323.wav,rater2,tɔɪwət,tɔri ,T OY W AH0 T,T AO R IY  ,4
+word_video_303.wav,rater3,vɪjoʊ,feɪl ,V IH Y OW,F EY L  ,4
+word_apple_321.wav,rater2,æpʌl,æpəl ,AE P AH L,AE P AH0 L  ,1
+phrase_page_recast_318.wav,rater1,peɪdʒ,peɪtʃ ,P EY JH,P EY CH  ,1
+word_hammer_324.wav,rater3,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+word_beach_307.wav,rater3,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+phrase_thumb_314.wav,rater2,θʌm,sʌm ,TH AH M,S AH M  ,1
+word_jacket_324.wav,rater2,dʒækɪt,dʒækɪt ,JH AE K IH T,JH AE K IH T  ,0
+phrase_van_325.wav,rater2,væn,ðɛn ,V AE N,DH EH N  ,2
+phrase_game_308.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_thumb_302.wav,rater1,θʌm,dʌm ,TH AH M,D AH M  ,1
+phrase_mouth_recast_317.wav,rater2,maʊ,mæp ,M AW,M AE P  ,2
+word_pig_321.wav,rater2,pɪg,pɪɡ ,P IH G,P IH G  ,0
+word_toys_305.wav,rater3,tɔɪs,tɔɪz ,T OY S,T OY Z  ,1
+phrase_ring_321.wav,rater2,rɪŋ,rɪŋ ,R IH NG,R IH NG  ,0
+word_kitchen_304.wav,rater3,kɪtʃən,kɪtʃən ,K IH CH AH0 N,K IH CH AH0 N  ,0
+word_puzzle_326.wav,rater3,pʌzʌ,pʌzəl ,P AH Z AH,P AH Z AH0 L  ,2
+phrase_book_305.wav,rater1,bʊk,bʊk ,B UH K,B UH K  ,0
+word_water_312.wav,rater2,wɑtstu,wɑt du ,W AA T S T UW,W AA T   D UW  ,3
+phrase_table_324.wav,rater3,tebəl,teɪbəl ,T E B AH0 L,T EY B AH0 L  ,1
+phrase_potato_recast_310.wav,rater2,pəteɪtoʊ,pəteɪtoʊ ,P AH0 T EY T OW,P AH0 T EY T OW  ,0
+phrase_video_302.wav,rater2,vɪdioʊ,vɪdioʊ ,V IH D IY OW,V IH D IY OW  ,0
+word_yell_recast_314.wav,rater3,jɛl,jɛl ,Y EH L,Y EH L  ,0
+word_wagon_315.wav,rater2,wægən,wæɡən ,W AE G AH0 N,W AE G AH0 N  ,0
+word_magic_recast_318.wav,rater2,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+phrase_house_326.wav,rater3,haʊs,haʊs ,HH AW S,HH AW S  ,0
+phrase_van_recast_313.wav,rater3,væn,fʌn ,V AE N,F AH N  ,2
+phrase_ring_301.wav,rater3,rɪŋ,rɪŋ ,R IH NG,R IH NG  ,0
+word_moon_311.wav,rater2,mun,mun ,M UW N,M UW N  ,0
+word_honey_304.wav,rater2,hʌni,hʌni ,HH AH N IY,HH AH N IY  ,0
+phrase_money_308.wav,rater3,mʌni,mʌni ,M AH N IY,M AH N IY  ,0
+word_doll_321.wav,rater1,dɑl,dɑl ,D AA L,D AA L  ,0
+phrase_TV_316.wav,rater3,tɪbi,tivi ,T IH B IY,T IY V IY  ,2
+phrase_sock_310.wav,rater3,sɑk,sʌk ,S AA K,S AH K  ,1
+word_heavy_306.wav,rater1,hɛvi,hɛvi ,HH EH V IY,HH EH V IY  ,0
+phrase_couch_313.wav,rater2,kaʊʔʃ,kaʊtʃ ,K AW Q SH,K AW CH  ,2
+word_cake_recast_317.wav,rater2,keɪk,keɪk ,K EY K,K EY K  ,0
+word_shape_recast_305.wav,rater3,ʃeɪp,ʃeɪp ,SH EY P,SH EY P  ,0
+phrase_house_324.wav,rater3,haʊs,haʊs ,HH AW S,HH AW S  ,0
+word_red_306.wav,rater2,wɛd,hwʌt ,W EH D,HH W AH T  ,3
+phrase_chicken_316.wav,rater1,tʃukɪn,tʃɪkən ,CH UW K IH N,CH IH K AH0 N  ,2
+phrase_page_321.wav,rater3,peɪdʒ,pɪtʃ ,P EY JH,P IH CH  ,2
+word_sing_324.wav,rater2,sɪŋ,sɪŋ ,S IH NG,S IH NG  ,0
+phrase_thumb_312.wav,rater3,θʌm,ðɛn ,TH AH M,DH EH N  ,3
+word_hammer_305.wav,rater2,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+phrase_house_323.wav,rater3,haʊs,haʊs ,HH AW S,HH AW S  ,0
+phrase_tiger_305.wav,rater1,tɑɪgɚ,taɪɡər ,T AA IH G ER0,T AY G AH0 R  ,4
+word_foot_303.wav,rater3,fʊʔ,pʊt ,F UH Q,P UH T  ,2
+word_wagon_314.wav,rater3,wægɪn,wæɡən ,W AE G IH N,W AE G AH0 N  ,1
+phrase_house_321.wav,rater2,haʊs,maʊs ,HH AW S,M AW S  ,1
+phrase_book_325.wav,rater3,bʊk,bʊk ,B UH K,B UH K  ,0
+word_wagon_325.wav,rater3,wægɪn,wæɡən ,W AE G IH N,W AE G AH0 N  ,1
+phrase_teacher_308.wav,rater2,titʃər,titʃər ,T IY CH AH0 R,T IY CH AH0 R  ,0
+word_game_325.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_jacket_318.wav,rater2,dʒækət,dʒækɪt ,JH AE K AH0 T,JH AE K IH T  ,1
+word_nose_305.wav,rater3,noʊz,noʊz ,N OW Z,N OW Z  ,0
+word_wagon_recast_303.wav,rater3,wægɪn,wæɡən ,W AE G IH N,W AE G AH0 N  ,1
+word_yell_recast_307.wav,rater3,jæl,jɛl ,Y AE L,Y EH L  ,1
+phrase_puzzle_315.wav,rater3,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+word_game_321.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_jacket_recast_326.wav,rater2,θækɪt,zæk ɪt ,TH AE K IH T,Z AE K   IH T  ,3
+phrase_page_311.wav,rater3,feɪdʒ,peɪdʒ ,F EY JH,P EY JH  ,1
+word_moon_319.wav,rater2,mun,mun ,M UW N,M UW N  ,0
+phrase_dog_305.wav,rater2,dɑg,dɔɡ ,D AA G,D AO G  ,1
+phrase_table_308.wav,rater3,tebəl,teɪbəl ,T E B AH0 L,T EY B AH0 L  ,1
+phrase_game_recast_317.wav,rater2,geɪm,ɡeɪ ,G EY M,G EY  ,1
+word_five_306.wav,rater3,faɪv,saɪz ,F AY V,S AY Z  ,2
+phrase_cat_321.wav,rater3,kæʔ,kæt ,K AE Q,K AE T  ,1
+word_yell_320.wav,rater2,jɛl,joʊ ,Y EH L,Y OW  ,2
+phrase_apple_318.wav,rater3,æpəl,æpəl ,AE P AH0 L,AE P AH0 L  ,0
+phrase_waves_310.wav,rater2,weɪvs,weɪz ,W EY V S,W EY Z  ,2
+phrase_van_recast_317.wav,rater3,væn,bɛn ,V AE N,B EH N  ,2
+word_thumb_313.wav,rater3,fʌm,fɝrm ,F AH M,F ER R M  ,2
+phrase_video_recast_319.wav,rater2,vɪdiɔ,vɪdioʊ ,V IH D IY AO,V IH D IY OW  ,1
+phrase_knife_306.wav,rater3,naɪf,naɪf ,N AY F,N AY F  ,0
+phrase_chicken_318.wav,rater2,tʃɪkən,tʃɪk ɪn ,CH IH K AH0 N,CH IH K   IH N  ,3
+phrase_ring_recast_317.wav,rater3,rɪŋ,reɪ ,R IH NG,R EY  ,2
+word_thumb_316.wav,rater3,θʌm,dʌm ,TH AH M,D AH M  ,1
+phrase_page_301.wav,rater1,peɪdʒ,peɪdʒ ,P EY JH,P EY JH  ,0
+phrase_dog_310.wav,rater2,dɑg,dɔɡ ,D AA G,D AO G  ,1
+phrase_web_304.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+word_toys_321.wav,rater1,tɔɪz,tɔɪz ,T OY Z,T OY Z  ,0
+word_cake_308.wav,rater3,keɪk,keɪk ,K EY K,K EY K  ,0
+word_chair_323.wav,rater2,tʃɛr,tɛr ,CH EH R,T EH R  ,1
+phrase_dog_301.wav,rater2,dɑg,dɔɡ ,D AA G,D AO G  ,1
+word_foot_313.wav,rater1,tθo,soʊ ,T TH O,S OW  ,3
+word_hammer_302.wav,rater2,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+word_game_320.wav,rater3,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+phrase_sock_318.wav,rater3,sɑk,sʌk ,S AA K,S AH K  ,1
+phrase_puzzle_314.wav,rater2,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+phrase_sock_326.wav,rater3,sak,sæk ,S A K,S AE K  ,1
+phrase_book_301.wav,rater2,bʊk,bʊk ,B UH K,B UH K  ,0
+word_beach_312.wav,rater2,bits,bits ,B IY T S,B IY T S  ,0
+phrase_teacher_311.wav,rater2,titʃər,titʃər ,T IY CH AH0 R,T IY CH AH0 R  ,0
+phrase_fish_313.wav,rater3,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+word_chair_304.wav,rater3,tʃer,tʃɛr ,CH E R,CH EH R  ,1
+phrase_tape_306.wav,rater2,taɪp,taɪp ,T AY P,T AY P  ,0
+word_hammer_311.wav,rater3,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+word_pig_305.wav,rater2,pɪg,pɪɡ ,P IH G,P IH G  ,0
+phrase_apple_recast_317.wav,rater2,æpʌl,pipəl ,AE P AH L,P IY P AH0 L  ,3
+phrase_table_319.wav,rater3,teɪbʌl,teɪbəl ,T EY B AH L,T EY B AH0 L  ,1
+word_wash_306.wav,rater3,vɑʃ,plʌs ,V AA SH,P L AH S  ,4
+word_teeth_315.wav,rater2,tiθ,tiθ ,T IY TH,T IY TH  ,0
+word_color_recast_308.wav,rater1,kʌlɚ,kʌlər ,K AH L ER0,K AH L AH0 R  ,2
+word_yell_recast_312.wav,rater2,laʊ,waʊ ,L AW,W AW  ,1
+phrase_cat_308.wav,rater3,kæʔ,kæt ,K AE Q,K AE T  ,1
+word_wash_320.wav,rater2,wɑʃ,wɑʃ ,W AA SH,W AA SH  ,0
+phrase_van_316.wav,rater3,væn,saʊnd ,V AE N,S AW N D  ,3
+phrase_hammer_313.wav,rater3,hæmo,nɔrməl ,HH AE M O,N AO R M AH0 L  ,5
+phrase_wave_312.wav,rater3,wif,brif ,W IY F,B R IY F  ,2
+phrase_table_301.wav,rater2,teɪbəl,teɪbəl ,T EY B AH0 L,T EY B AH0 L  ,0
+phrase_web_310.wav,rater3,wɛb,wɛb ,W EH B,W EH B  ,0
+phrase_book_318.wav,rater3,bʊk,bʊk ,B UH K,B UH K  ,0
+word_yell_recast_304.wav,rater2,jɛl,jɛə ,Y EH L,Y EH AH0  ,1
+phrase_puzzle_302.wav,rater3,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+phrase_hammer_316.wav,rater3,hæmər,jumər ,HH AE M AH0 R,Y UW M AH0 R  ,2
+word_beach_316.wav,rater2,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+phrase_yellow_309.wav,rater3,jɛlo,jɛloʊ ,Y EH L O,Y EH L OW  ,1
+word_teeth_314.wav,rater1,tiθ,tiθ ,T IY TH,T IY TH  ,0
+phrase_lion_313.wav,rater2,laɪlɪŋ,aɪ lɝrnɪŋ ,L AY L IH NG,AY   L ER R N IH NG  ,6
+word_chair_318.wav,rater2,tʃɛr,tʃɛr ,CH EH R,CH EH R  ,0
+phrase_road_302.wav,rater3,roʊd,roʊd ,R OW D,R OW D  ,0
+word_page_recast_319.wav,rater2,peɪdʒ,peɪdʒ ,P EY JH,P EY JH  ,0
+phrase_cat_314.wav,rater3,kæt,tɪm ,K AE T,T IH M  ,3
+phrase_sock_302.wav,rater3,sɑk,zæk ,S AA K,Z AE K  ,2
+word_beach_309.wav,rater2,bitʃ,spitʃ ,B IY CH,S P IY CH  ,2
+phrase_fish_308.wav,rater3,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+word_thumb_308.wav,rater3,θʌm,sʌm ,TH AH M,S AH M  ,1
+word_heavy_311.wav,rater2,hɛvi,hɛvi ,HH EH V IY,HH EH V IY  ,0
+phrase_money_322.wav,rater3,mʌni,mʌni ,M AH N IY,M AH N IY  ,0
+word_teeth_311.wav,rater2,tif,tiθ ,T IY F,T IY TH  ,1
+phrase_lion_309.wav,rater2,laɪən,laɪən ,L AY AH0 N,L AY AH0 N  ,0
+phrase_wave_recast_322.wav,rater2,weɪv,pleɪ ,W EY V,P L EY  ,3
+word_hammer_326.wav,rater2,hæmɑ,hæmər ,HH AE M AA,HH AE M AH0 R  ,2
+phrase_road_309.wav,rater3,roʊd,roʊd ,R OW D,R OW D  ,0
+word_sing_302.wav,rater2,sɪŋ,sɪŋ ,S IH NG,S IH NG  ,0
+word_cake_315.wav,rater3,keɪk,keɪk ,K EY K,K EY K  ,0
+phrase_TV_320.wav,rater2,tivi,tivi ,T IY V IY,T IY V IY  ,0
+phrase_potato_326.wav,rater2,bʌteɪdoʊ,pəteɪtoʊ ,B AH T EY D OW,P AH0 T EY T OW  ,3
+word_thumb_306.wav,rater1,θʌm,sʌm ,TH AH M,S AH M  ,1
+word_beach_318.wav,rater2,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+word_chair_recast_317.wav,rater3,tʃer,kɛr ,CH E R,K EH R  ,2
+word_jacket_322.wav,rater2,dʒækət,dʒækɪt ,JH AE K AH0 T,JH AE K IH T  ,1
+phrase_toilet_318.wav,rater3,tɔɪlɪt,tɔɪlɪt ,T OY L IH T,T OY L IH T  ,0
+word_red_316.wav,rater3,rɛd,brɛd ,R EH D,B R EH D  ,1
+word_kitchen_320.wav,rater2,kɪtʃə,kɪtʃən ,K IH CH AH0,K IH CH AH0 N  ,1
+phrase_knife_326.wav,rater3,naɪf,naɪs ,N AY F,N AY S  ,1
+word_teeth_310.wav,rater2,tiθ,tiθ ,T IY TH,T IY TH  ,0
+phrase_hammer_309.wav,rater3,hæmɛr,hæmər ,HH AE M EH R,HH AE M AH0 R  ,1
+word_yell_315.wav,rater3,jɛl,jɛə ,Y EH L,Y EH AH0  ,1
+word_cake_303.wav,rater3,keɪ,ɡeɪ ,K EY,G EY  ,1
+word_red_309.wav,rater2,rɛd,bæd ,R EH D,B AE D  ,2
+phrase_lion_325.wav,rater2,laɪən,laɪən ,L AY AH0 N,L AY AH0 N  ,0
+word_yell_305.wav,rater1,jɛl,jɛl ,Y EH L,Y EH L  ,0
+word_apple_309.wav,rater3,æpəl,æpəl ,AE P AH0 L,AE P AH0 L  ,0
+word_magic_recast_301.wav,rater3,mædʒək,mædʒɪk ,M AE JH AH0 K,M AE JH IH K  ,1
+phrase_ring_310.wav,rater1,rɪŋ,ræŋ ,R IH NG,R AE NG  ,1
+word_moon_recast_317.wav,rater2,mun,mulər ,M UW N,M UW L AH0 R  ,3
+word_heavy_301.wav,rater3,hɛvi,hɛvi ,HH EH V IY,HH EH V IY  ,0
+phrase_magic_313.wav,rater3,mætʃɪkt,mædʒɪk ,M AE CH IH K T,M AE JH IH K  ,2
+word_web_314.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+word_wash_304.wav,rater1,wɑʃ,wɑʃ ,W AA SH,W AA SH  ,0
+phrase_potato_recast_313.wav,rater3,bətitu,piti tu ,B AH0 T IY T UW,P IY T IY   T UW  ,4
+phrase_game_316.wav,rater2,geɪm,dʒɪm ,G EY M,JH IH M  ,2
+phrase_potato_318.wav,rater3,pəteto,pəteɪtoʊ ,P AH0 T E T O,P AH0 T EY T OW  ,2
+word_wash_307.wav,rater3,wɑʃ,wɑʃ ,W AA SH,W AA SH  ,0
+word_puzzle_312.wav,rater3,paso,bæsəl ,P A S O,B AE S AH0 L  ,4
+phrase_juice_324.wav,rater2,dʒus,dʒus ,JH UW S,JH UW S  ,0
+phrase_house_325.wav,rater2,haʊs,haʊs ,HH AW S,HH AW S  ,0
+phrase_ring_307.wav,rater1,wɪŋ,li ,W IH NG,L IY  ,3
+phrase_potato_315.wav,rater3,pəteɪdoʊ,pəteɪtoʊ ,P AH0 T EY D OW,P AH0 T EY T OW  ,1
+word_chair_319.wav,rater2,tʃɛr,tʃɛr ,CH EH R,CH EH R  ,0
+word_nose_308.wav,rater2,noʊz,noʊz ,N OW Z,N OW Z  ,0
+phrase_toilet_recast_317.wav,rater2,tɔɪlət,sɪli ,T OY L AH0 T,S IH L IY  ,4
+phrase_sock_320.wav,rater3,sɑk,sʌk ,S AA K,S AH K  ,1
+phrase_road_314.wav,rater3,rod,roʊd ,R O D,R OW D  ,1
+phrase_teacher_310.wav,rater3,titʃɚ,titʃər ,T IY CH ER0,T IY CH AH0 R  ,2
+phrase_book_302.wav,rater3,bʊk,lʊk ,B UH K,L UH K  ,1
+phrase_book_316.wav,rater2,bʊk,bʊk ,B UH K,B UH K  ,0
+phrase_sock_303.wav,rater3,sɑ,stɑp ,S AA,S T AA P  ,2
+word_magic_recast_319.wav,rater3,mɛdʒɪk,mædʒɪk ,M EH JH IH K,M AE JH IH K  ,1
+phrase_sock_322.wav,rater2,sʌk,sʌk ,S AH K,S AH K  ,0
+phrase_book_309.wav,rater3,bʊk,bʊk ,B UH K,B UH K  ,0
+word_beach_recast_321.wav,rater3,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+phrase_tiger_304.wav,rater3,taɪgʌ,taɪɡər ,T AY G AH,T AY G AH0 R  ,2
+word_pig_308.wav,rater3,pɪg,pɪɡ ,P IH G,P IH G  ,0
+word_honey_311.wav,rater3,hʌni,hʌni ,HH AH N IY,HH AH N IY  ,0
+word_yell_recast_319.wav,rater3,hjɛl,jɛl ,HH Y EH L,Y EH L  ,1
+phrase_potato_316.wav,rater3,pətedo,pəteɪtoʊ ,P AH0 T E D O,P AH0 T EY T OW  ,3
+phrase_video_recast_326.wav,rater2,vɪjoʊ,vɪdioʊ ,V IH Y OW,V IH D IY OW  ,2
+word_water_319.wav,rater2,vatɛr,vʌltʃər ,V A T EH R,V AH L CH AH0 R  ,4
+word_face_recast_306.wav,rater2,feɪs,feɪs ,F EY S,F EY S  ,0
+word_doll_310.wav,rater2,dɑl,dɑl ,D AA L,D AA L  ,0
+word_doll_319.wav,rater3,dols,dɑlz ,D O L S,D AA L Z  ,2
+word_heavy_recast_317.wav,rater3,hɛvi,hɛvi ,HH EH V IY,HH EH V IY  ,0
+word_moon_308.wav,rater3,mun,mun ,M UW N,M UW N  ,0
+phrase_thumb_320.wav,rater3,θʌm,stɑp ,TH AH M,S T AA P  ,4
+phrase_tape_310.wav,rater2,teɪp,teɪp ,T EY P,T EY P  ,0
+phrase_dog_308.wav,rater3,dɑg,dɔɡ ,D AA G,D AO G  ,1
+word_honey_recast_317.wav,rater2,hʌni,hʌni ,HH AH N IY,HH AH N IY  ,0
+phrase_juice_325.wav,rater3,dʒus,fitʃərz ,JH UW S,F IY CH AH0 R Z  ,6
+word_toys_306.wav,rater1,tɔɪz,tɔɪz ,T OY Z,T OY Z  ,0
+word_wash_322.wav,rater1,wɑs,bɑs ,W AA S,B AA S  ,1
+word_foot_307.wav,rater3,fʊʔ,bʌt ,F UH Q,B AH T  ,3
+word_hammer_325.wav,rater2,hæmɚ,hæmər ,HH AE M ER0,HH AE M AH0 R  ,2
+phrase_web_321.wav,rater2,wɛb,ðʌ wɛb ,W EH B,DH AH   W EH B  ,4
+word_color_301.wav,rater1,kʌlə,kʌlər ,K AH L AH0,K AH L AH0 R  ,1
+word_color_recast_314.wav,rater2,kʌlər,kʌlər ,K AH L AH0 R,K AH L AH0 R  ,0
+phrase_magic_309.wav,rater2,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+word_magic_313.wav,rater3,mætik,mætɪk ,M AE T IY K,M AE T IH K  ,1
+phrase_wave_323.wav,rater3,reɪv,reɪv ,R EY V,R EY V  ,0
+phrase_dog_316.wav,rater3,dɑg,dɔɡ ,D AA G,D AO G  ,1
+word_toys_312.wav,rater1,tsɔɪs,stɔriz ,T S OY S,S T AO R IY Z  ,5
+word_web_311.wav,rater1,wɛb,wɛb ,W EH B,W EH B  ,0
+phrase_toilet_315.wav,rater3,tɔɪlət,tɔɪlɪt ,T OY L AH0 T,T OY L IH T  ,1
+phrase_video_306.wav,rater2,vɪdioʊ,vɪdioʊ ,V IH D IY OW,V IH D IY OW  ,0
+word_apple_307.wav,rater3,æpo,æpəl ,AE P O,AE P AH0 L  ,2
+phrase_table_326.wav,rater3,teɪbʌ,keɪbəl ,T EY B AH,K EY B AH0 L  ,3
+word_chair_310.wav,rater3,tʃɛr,tʃɛr ,CH EH R,CH EH R  ,0
+word_five_324.wav,rater2,faɪv,faɪv ,F AY V,F AY V  ,0
+phrase_van_recast_323.wav,rater3,væn,mæn ,V AE N,M AE N  ,1
+phrase_puzzle_322.wav,rater2,pʌðʌl,pɛdəl ,P AH DH AH L,P EH D AH0 L  ,3
+word_doll_318.wav,rater2,dɑl,dɑl ,D AA L,D AA L  ,0
+phrase_tiger_310.wav,rater2,taɪgər,taɪɡər ,T AY G AH0 R,T AY G AH0 R  ,0
+word_moon_314.wav,rater2,mun,mun ,M UW N,M UW N  ,0
+word_pig_311.wav,rater3,pɪg,pɪɡ ,P IH G,P IH G  ,0
+phrase_van_314.wav,rater3,væn,væn ,V AE N,V AE N  ,0
+word_face_310.wav,rater3,feɪs,feɪs ,F EY S,F EY S  ,0
+word_red_324.wav,rater3,rɛd,rɛd ,R EH D,R EH D  ,0
+phrase_road_322.wav,rater1,wod,wɝrld ,W O D,W ER R L D  ,3
+word_water_313.wav,rater2,wado,wɑdəl ,W A D O,W AA D AH0 L  ,3
+word_game_recast_307.wav,rater3,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_red_314.wav,rater3,rɛd,rɛd ,R EH D,R EH D  ,0
+word_red_recast_317.wav,rater2,rɛd,dræft ,R EH D,D R AE F T  ,4
+word_pig_320.wav,rater3,pɪg,pɪɡ ,P IH G,P IH G  ,0
+word_doll_312.wav,rater1,dæo,daʊ ,D AE O,D AW  ,2
+word_hammer_304.wav,rater3,hæmə,hæmər ,HH AE M AH0,HH AE M AH0 R  ,1
+phrase_shoes_322.wav,rater3,suz,ɪz ,S UW Z,IH Z  ,2
+word_leaf_311.wav,rater3,lif,lis ,L IY F,L IY S  ,1
+phrase_sock_319.wav,rater2,sɑk,sʌk ,S AA K,S AH K  ,1
+phrase_road_303.wav,rater3,wɪm,wɝrld ,W IH M,W ER R L D  ,4
+phrase_toilet_303.wav,rater2,tɔɪlət,tɔɪlɪt ,T OY L AH0 T,T OY L IH T  ,1
+phrase_ring_304.wav,rater2,wɪŋ,wɪŋ ,W IH NG,W IH NG  ,0
+phrase_fish_324.wav,rater3,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+phrase_sock_304.wav,rater1,sɑk,sʌk ,S AA K,S AH K  ,1
+word_hammer_314.wav,rater3,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+word_beach_308.wav,rater3,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+word_leaf_310.wav,rater2,lif,lif ,L IY F,L IY F  ,0
+phrase_hammer_306.wav,rater3,hæmo,ænɪməl ,HH AE M O,AE N IH M AH0 L  ,5
+phrase_web_recast_326.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+word_puzzle_302.wav,rater2,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+phrase_tiger_306.wav,rater2,taɪgoʊ,saɪkəl ,T AY G OW,S AY K AH0 L  ,4
+phrase_apple_325.wav,rater3,æpəl,æpəl ,AE P AH0 L,AE P AH0 L  ,0
+word_apple_322.wav,rater3,æpol,æpəl ,AE P O L,AE P AH0 L  ,1
+phrase_yellow_recast_319.wav,rater2,hɛlo,jɛloʊ ,HH EH L O,Y EH L OW  ,2
+phrase_van_recast_319.wav,rater2,væn,sæm ,V AE N,S AE M  ,2
+word_yelling_313.wav,rater3,laʊɪŋ,laʊ hɪm ,L AW IH NG,L AW   HH IH M  ,4
+word_leaf_302.wav,rater2,lif,lif ,L IY F,L IY F  ,0
+phrase_teacher_301.wav,rater1,titʃə,titʃər ,T IY CH AH0,T IY CH AH0 R  ,1
+word_heavy_303.wav,rater3,hɛvi,həv ,HH EH V IY,HH AH0 V  ,2
+phrase_shoes_325.wav,rater2,ʃuz,ʃuz ,SH UW Z,SH UW Z  ,0
+word_red_325.wav,rater2,rɛd,rɛd ,R EH D,R EH D  ,0
+word_web_322.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+phrase_table_313.wav,rater2,tiboʊ,pipəl ,T IY B OW,P IY P AH0 L  ,4
+phrase_cat_recast_317.wav,rater2,kɛt,kæt ,K EH T,K AE T  ,1
+phrase_page_312.wav,rater2,bis,bits ,B IY S,B IY T S  ,1
+phrase_fish_315.wav,rater2,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+phrase_table_314.wav,rater2,teɪbo,teɪbəl ,T EY B O,T EY B AH0 L  ,2
+word_ring_recast_317.wav,rater3,rɪ,reɪ ,R IH,R EY  ,1
+word_foot_321.wav,rater1,fʊʔ,fʊt ,F UH Q,F UH T  ,1
+word_web_318.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+phrase_hat_recast_317.wav,rater2,hæt,pɛt ,HH AE T,P EH T  ,2
+phrase_house_309.wav,rater3,haʊs,haʊs ,HH AW S,HH AW S  ,0
+word_honey_316.wav,rater3,hʌni,mi ,HH AH N IY,M IY  ,3
+word_web_324.wav,rater2,wɛb,wɛb ,W EH B,W EH B  ,0
+phrase_van_302.wav,rater2,væn,væn ,V AE N,V AE N  ,0
+phrase_toilet_316.wav,rater3,tɔɪlɪʔ,tɔɪlɪt ,T OY L IH Q,T OY L IH T  ,1
+word_chair_306.wav,rater3,tʃio,dʒɪl ,CH IY O,JH IH L  ,3
+word_heavy_recast_312.wav,rater2,hʌfi,hʌfi ,HH AH F IY,HH AH F IY  ,0
+word_wagon_recast_310.wav,rater3,wægɪn,wæɡən ,W AE G IH N,W AE G AH0 N  ,1
+word_thumb_322.wav,rater3,fʌm,frɑm ,F AH M,F R AA M  ,2
+phrase_wave_318.wav,rater3,weɪh,weɪ ,W EY HH,W EY  ,1
+phrase_hammer_312.wav,rater2,hæmə,hʌni ,HH AE M AH0,HH AH N IY  ,3
+word_wash_recast_316.wav,rater3,wɑʃ,wɑʃ ,W AA SH,W AA SH  ,0
+phrase_game_305.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+phrase_page_313.wav,rater3,pfɪʃ,fɪʃ ,P F IH SH,F IH SH  ,1
+word_kitchen_306.wav,rater2,kɪtsən,kɪtʃən ,K IH T S AH0 N,K IH CH AH0 N  ,2
+phrase_hat_310.wav,rater3,hæt,æt ,HH AE T,AE T  ,1
+word_moon_321.wav,rater3,mɪun,maʊntɪn ,M IH UW N,M AW N T IH N  ,4
+word_teeth_323.wav,rater2,tif,tiθ ,T IY F,T IY TH  ,1
+word_face_323.wav,rater3,feɪs,feɪs ,F EY S,F EY S  ,0
+phrase_TV_326.wav,rater3,tivi,tivi ,T IY V IY,T IY V IY  ,0
+word_sing_recast_319.wav,rater3,sɪŋ,sɪŋ ,S IH NG,S IH NG  ,0
+phrase_couch_recast_319.wav,rater3,kaʊtʃ,kaʊtʃ ,K AW CH,K AW CH  ,0
+phrase_tape_309.wav,rater3,tep,teɪp ,T E P,T EY P  ,1
+word_cake_314.wav,rater3,kɪk,keɪk ,K IH K,K EY K  ,1
+phrase_juice_319.wav,rater3,dʒuz,dʒuz ,JH UW Z,JH UW Z  ,0
+phrase_wave_307.wav,rater3,weɪv,weɪv ,W EY V,W EY V  ,0
+word_puzzle_322.wav,rater2,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+phrase_cat_309.wav,rater1,kæt,kæt ,K AE T,K AE T  ,0
+phrase_mouth_312.wav,rater3,maʊs,jɛs ,M AW S,Y EH S  ,2
+phrase_fish_314.wav,rater3,fɪʃ,fɪʃ ,F IH SH,F IH SH  ,0
+phrase_ring_recast_319.wav,rater1,rɪ,rɪm ,R IH,R IH M  ,1
+phrase_magic_310.wav,rater2,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+word_beach_313.wav,rater3,bitʃ,spitʃ ,B IY CH,S P IY CH  ,2
+phrase_apple_313.wav,rater3,æpo,æpəl ,AE P O,AE P AH0 L  ,2
+phrase_tiger_301.wav,rater1,tɑɪgɚ,taɪɡər ,T AA IH G ER0,T AY G AH0 R  ,4
+word_game_315.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+word_puzzle_316.wav,rater3,pʌzəl,pʌzəl ,P AH Z AH0 L,P AH Z AH0 L  ,0
+word_thumb_303.wav,rater1,θʌm,sʌm ,TH AH M,S AH M  ,1
+phrase_mouth_recast_326.wav,rater3,mæf,mæθ ,M AE F,M AE TH  ,1
+word_doll_303.wav,rater2,dɑl,dɛl ,D AA L,D EH L  ,1
+phrase_mouth_recast_323.wav,rater2,maʊf,maʊθ ,M AW F,M AW TH  ,1
+phrase_yellow_302.wav,rater3,jɛloʊ,jɛloʊ ,Y EH L OW,Y EH L OW  ,0
+phrase_mouth_304.wav,rater2,maʊθ,mæp ,M AW TH,M AE P  ,2
+word_wagon_recast_301.wav,rater3,wægən,wæɡən ,W AE G AH0 N,W AE G AH0 N  ,0
+phrase_apple_321.wav,rater3,æpəl,æpəl ,AE P AH0 L,AE P AH0 L  ,0
+word_leaf_307.wav,rater2,liv,liv ,L IY V,L IY V  ,0
+word_wash_recast_311.wav,rater1,wɑʃ,wɑʃ ,W AA SH,W AA SH  ,0
+phrase_chicken_310.wav,rater3,tʃɪkɪn,tʃɪk ɪn ,CH IH K IH N,CH IH K   IH N  ,2
+phrase_TV_323.wav,rater3,tivi,tivi ,T IY V IY,T IY V IY  ,0
+word_foot_320.wav,rater3,fʊt,fʊt ,F UH T,F UH T  ,0
+word_chair_314.wav,rater3,tʃɛr,tʃɛr ,CH EH R,CH EH R  ,0
+word_beach_320.wav,rater2,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+phrase_book_313.wav,rater3,bʊk,bʊk ,B UH K,B UH K  ,0
+word_hammer_recast_317.wav,rater2,hæmər,hæmər ,HH AE M AH0 R,HH AE M AH0 R  ,0
+word_magic_recast_325.wav,rater2,mædʒɪk,mædʒɪk ,M AE JH IH K,M AE JH IH K  ,0
+word_toys_313.wav,rater2,tʃɔɪθ,stɔri ,CH OY TH,S T AO R IY  ,5
+phrase_yellow_308.wav,rater3,jɛlo,jɛloʊ ,Y EH L O,Y EH L OW  ,1
+word_yell_301.wav,rater3,jɛl,jɛl ,Y EH L,Y EH L  ,0
+phrase_hat_301.wav,rater2,hæt,kæt ,HH AE T,K AE T  ,1
+word_wagon_313.wav,rater3,fwɑdɪn,flæɡɪŋ ,F W AA D IH N,F L AE G IH NG  ,4
+word_thumb_311.wav,rater2,θʌm,dʌm ,TH AH M,D AH M  ,1
+word_heavy_recast_323.wav,rater3,hɛvi,hɛvi ,HH EH V IY,HH EH V IY  ,0
+phrase_thumb_313.wav,rater2,fʌm,sæm ,F AH M,S AE M  ,2
+word_teeth_recast_317.wav,rater2,tiθ,tiθ ,T IY TH,T IY TH  ,0
+word_toys_322.wav,rater2,tɔɪz,tɔɪz ,T OY Z,T OY Z  ,0
+phrase_video_316.wav,rater2,vɪdioʊ,vɪdioʊ ,V IH D IY OW,V IH D IY OW  ,0
+word_kitchen_309.wav,rater3,kɪtʃɪn,kɪtʃɪn ,K IH CH IH N,K IH CH IH N  ,0
+phrase_mouth_315.wav,rater3,maʊθ,mæθ ,M AW TH,M AE TH  ,1
+phrase_tiger_324.wav,rater3,taɪgər,taɪɡər ,T AY G AH0 R,T AY G AH0 R  ,0
+word_water_306.wav,rater3,waɾʊ,wɑldoʊ ,W A ɾ UH,W AA L D OW  ,4
+phrase_teacher_316.wav,rater2,titʃər,titʃər ,T IY CH AH0 R,T IY CH AH0 R  ,0
+phrase_tiger_325.wav,rater3,taɪgər,taɪɡər ,T AY G AH0 R,T AY G AH0 R  ,0
+phrase_tape_325.wav,rater3,teɪp,teɪp ,T EY P,T EY P  ,0
+word_shape_recast_309.wav,rater3,ʃeɪp,ʃeɪp ,SH EY P,SH EY P  ,0
+word_doll_304.wav,rater1,dɑl,dɑl ,D AA L,D AA L  ,0
+word_magic_recast_320.wav,rater2,bædʒɪk,mædʒɪk ,B AE JH IH K,M AE JH IH K  ,1
+word_beach_325.wav,rater2,bitʃ,bitʃ ,B IY CH,B IY CH  ,0
+phrase_teacher_314.wav,rater3,tiʃər,titʃər ,T IY SH AH0 R,T IY CH AH0 R  ,1
+phrase_dog_304.wav,rater2,dɑg,dɔɡ ,D AA G,D AO G  ,1
+word_apple_318.wav,rater2,æpəl,æpəl ,AE P AH0 L,AE P AH0 L  ,0
+phrase_potato_306.wav,rater2,vəteɪtoʊ,pəteɪtoʊ ,V AH0 T EY T OW,P AH0 T EY T OW  ,1
+phrase_video_recast_317.wav,rater3,wɪdiʌ,vɪdioʊ ,W IH D IY AH,V IH D IY OW  ,2
+word_wash_303.wav,rater2,wɑs,flæʃ ,W AA S,F L AE SH  ,4
+phrase_tiger_314.wav,rater2,taɪgər,taɪɡər ,T AY G AH0 R,T AY G AH0 R  ,0
+phrase_juice_318.wav,rater2,dʒuʃ,sirz ,JH UW SH,S IY R Z  ,4
+phrase_magic_305.wav,rater2,mɑdʒɪk,mædʒɪk ,M AA JH IH K,M AE JH IH K  ,1
+word_baby_304.wav,rater3,bebi,beɪbi ,B E B IY,B EY B IY  ,1
+phrase_knife_316.wav,rater2,naɪf,naɪs ,N AY F,N AY S  ,1
+phrase_chicken_301.wav,rater2,tʃɪkɪn,tʃɪkən ,CH IH K IH N,CH IH K AH0 N  ,1
+word_page_325.wav,rater2,peɪdsəs,keɪt ,P EY D S AH0 S,K EY T  ,5
+phrase_juice_320.wav,rater3,dʒus,dʒus ,JH UW S,JH UW S  ,0
+phrase_TV_305.wav,rater2,tivi,tivi ,T IY V IY,T IY V IY  ,0
+phrase_tape_313.wav,rater2,tep,slip ,T E P,S L IY P  ,3
+phrase_tape_323.wav,rater2,teɪp,teɪp ,T EY P,T EY P  ,0
+phrase_magic_304.wav,rater3,mædʒɪk,mætʃ ,M AE JH IH K,M AE CH  ,3
+phrase_puzzle_319.wav,rater2,pɑzoʊ,pʌzəl ,P AA Z OW,P AH Z AH0 L  ,3
+word_five_322.wav,rater1,faɪv,faɪv ,F AY V,F AY V  ,0
+phrase_thumb_302.wav,rater2,θʌm,sʌm ,TH AH M,S AH M  ,1
+word_thumb_307.wav,rater2,fʌm,sʌm ,F AH M,S AH M  ,1
+word_video_recast_318.wav,rater3,vɪdio,vɪdioʊ ,V IH D IY O,V IH D IY OW  ,1
+phrase_dog_323.wav,rater2,dɔg,dɔɡ ,D AO G,D AO G  ,0
+phrase_puzzle_326.wav,rater2,pʌzə,pʌzəl ,P AH Z AH0,P AH Z AH0 L  ,1
+word_wash_recast_323.wav,rater3,wɑʃ,ɡlæs ,W AA SH,G L AE S  ,4
+word_sing_318.wav,rater2,sɪŋ,sɪŋ ,S IH NG,S IH NG  ,0
+phrase_magic_322.wav,rater3,mætɪk,mædʒɪk ,M AE T IH K,M AE JH IH K  ,1
+phrase_money_307.wav,rater3,mʌni,mʌni ,M AH N IY,M AH N IY  ,0
+word_shape_recast_307.wav,rater2,ʃeɪp,ʃeɪp ,SH EY P,SH EY P  ,0
+word_game_314.wav,rater2,geɪm,ɡeɪm ,G EY M,G EY M  ,0
+phrase_page_320.wav,rater2,peɪtʃ,peɪdʒ ,P EY CH,P EY JH  ,1
